@@ -1,26 +1,31 @@
-# Project 6 - *Name of App Here*
+# Project 6 - *Tumblr Feed 2.0*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr Feed 2.0** is an app that fetches a feed of blog posts from the Tumblr API and displays them to the user in a scrolling list. As an improvement, users now have the ability to navigate to a detail view by tapping a blog post in the main tumblr feed.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Setup navigation to the Detail Screen
-- [ ] Created the Detail View UI
-- [ ] Add the ability to pass data to the Detail View Controller
-- [ ] Made personal finishing touches to the UI
+- [x] Setup navigation to the Detail Screen
+- [x] Created the Detail View UI
+- [x] Add the ability to pass data to the Detail View Controller
+- [x] Made personal finishing touches to the UI
 
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Unselect row when returning from the detail view as part of finishing touches
 
 ## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/be3491005b1540f9832fb651416a5edb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/be3491005b1540f9832fb651416a5edb-with-play.gif">
+    </a>
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 

@@ -27,17 +27,13 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/be3491005b1540f9832fb651416a5edb-with-play.gif">
     </a>
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+This topic was really interesting, and I understood it quite well and quickly. I'm grateful for my progress in this course, and even though I know it will require a lot of practice to become fully comfortable with it, I'm happy with my current level of understanding. Completing projects like this one excites me for when I get to create my first app - the capstone project!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
